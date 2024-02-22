@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @munshi007
 - 👀 I’m an enthusiast in Data Science
-- 🌱 Motivated about Artificial Intelligence
-- 💞️ I’m looking to collaborate on cool projects regarding AI
+- 🌱 Motivated about Deep Learning
 - 📫 Reach out to me - https://www.linkedin.com/in/rohan-munshi-006/
 
 <!---
